@@ -203,6 +203,7 @@ body {
 .results {
   position: absolute;
   top: 770px;
+  margin-left: 50px;
   width: max-content;
   height: fit-content;
   border: 8px ridge goldenrod;
